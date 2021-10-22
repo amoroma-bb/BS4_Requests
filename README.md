@@ -4,3 +4,6 @@
 
 ## 1. Scrap the questions of 'advantage 2' for cat
 - the block policy of amazon enables me to scrap only half of the questions
+
+
+## 2. Scrap the jobs from LinkedIn with selenium
